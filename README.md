@@ -1,0 +1,2 @@
+# strivetobetter.com
+my blog
